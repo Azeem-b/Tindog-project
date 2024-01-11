@@ -1,0 +1,204 @@
+body{
+  font-family: "Montserrat", sans-serif;
+}
+
+
+#title{
+  background-color: #ff4c68;
+}
+
+
+.container-fluid{
+  padding:3% 10% 7%;
+}
+
+
+h1{
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+line-height: 1.5;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  color: white;
+}
+
+.nav-item{
+  padding: 0 18px;
+
+}
+
+.nav-link{
+  font-size: 1.2rem;
+color: white;
+
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.btn{
+padding-right: 20px;
+padding-left: 20px;
+  margin: 5% 3% 5% 0;
+}
+
+.bi{
+  padding-right: 4px;
+}
+
+
+.main-img{
+  transform: rotate(25deg);
+  width: 60%;
+  padding-left: 60px;
+}
+
+h2{
+  font-size: 3rem;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 700;
+
+}
+
+h3{
+  font-size: 1.5rem;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 700;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+#features{
+  text-align: center;
+  margin: 70px;
+}
+
+.icons{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icons:hover{
+color: #ff4c68;
+}
+
+.features-align{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#testimonials{
+
+  background-color: #ef8172;
+  text-align: center;
+  color: white;
+}
+
+.testimonial-img{
+  border-radius:100%;
+  width: 10%;
+  margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.media{
+  width:15%;
+  margin: 30px 20px;
+  padding-bottom: 40px;
+}
+
+#pricing{
+  text-align: center;
+    padding: 7%;
+}
+
+.pricing-section{
+  padding: 30px 30px;
+}
+
+.pricing-btn{
+  margin: 0;
+}
+
+
+#CTA{
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.cta-txt{
+  font-size: 3rem;
+  padding-top: 100px;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.btn-cta{
+      margin: 50px 20px 100px 20px;
+}
+
+#footer{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+
+}
+
+.footer-icon{
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+
+@media (max-width:1030px) {
+  #title{
+    text-align: center;
+  }
+
+.main-img{
+transform: rotate(0); }
+
+
+}
+
+
+.container-1{
+  width: 100%;
+  height: 100%;
+  background-color: pink;
+
+
+
+}
+
+.man-img{
+  width: 100%;
+  height: 100%;
+}
+
+.merge-img{
+  padding: 0;
+
+}
+
+.Main-txt{
+  color: black;
+  padding-left: 600px;
+  position: absolute;
+}
+
+.footer-1{
+background-color: brown;
+
+}
